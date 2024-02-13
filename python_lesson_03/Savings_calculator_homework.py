@@ -7,4 +7,4 @@ print(f"Will you be able to afford your holiday?")
 if money_result >= 10000:
     print(f"Yes! Have an amazing time and send us a postcard!")
 else:
-    print(f"Unfortunately, that won't quite get you your dream holiday, can you find a better interest rate?")
+    print(f"Unfortunately, that won't quite get you your dream holiday. Can you put down a bigger deposit, extend the term of your savings or find a better interest rate?")
