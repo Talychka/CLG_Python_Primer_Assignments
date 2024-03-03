@@ -21,6 +21,6 @@ reversed_phrase_list=clean_phrase[::-1]
 
 #check if it is a palindrome using boolean function
 if clean_phrase == reversed_phrase_list:
-    print("This phrase is a Palindrome")
+    print("How unusual, this phrase is a Palindrome!")
 else:
-    print("This phrase is not a Palindrome")
+    print("Unsurprisingly, this phrase is not a Palindrome")
