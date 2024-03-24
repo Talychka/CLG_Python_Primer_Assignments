@@ -9,7 +9,6 @@
 
     # I have 2 vowels in my name.
 
-# # 1. define the function 
 def check_vowels(s):
 
     vowels = 'aeiouAEIOU'
